@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/drawable/ic_back.xml" value="0.1725" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/drawable/ic_logout.xml" value="0.1725" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/drawable/ic_menu.xml" value="0.1725" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/drawable/ic_notifications.xml" value="0.1725" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/activity_add_item.xml" value="0.16047144152311876" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/activity_bmicalculator.xml" value="0.16047144152311876" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/activity_calculate.xml" value="0.16047144152311876" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/activity_congratulations.xml" value="0.16047144152311876" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/activity_history.xml" value="0.16047144152311876" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/activity_left_to_consume.xml" value="0.16047144152311876" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/activity_main.xml" value="0.13553943789664552" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/drawerheader.xml" value="0.16047144152311876" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/layout/fooditems.xml" value="0.16047144152311876" />
+        <entry key="..\:/Users/Shashankappu/AndroidStudioProjects/CalorieTracker/app/src/main/res/menu/mainmenu.xml" value="0.18426678067550234" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
