@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity(){
         btnCalculate.setOnClickListener {
             intent = Intent(this, Calculate::class.java)
             startActivity(intent)
-
         }
         btnBMI.setOnClickListener {
             intent = Intent(this, BMICalculator::class.java)
@@ -32,7 +31,7 @@ class MainActivity : AppCompatActivity(){
                 drawerLayout.closeDrawer(GravityCompat.START)
             } else {
                 drawerLayout.openDrawer(GravityCompat.START)
-            } }
-
+            }
+        }
     }
 }

@@ -16,7 +16,8 @@ class AddItem : AppCompatActivity() {
         unitspinner.adapter  = unitspinnerAdapter
 
         btnbackfromitem.setOnClickListener {
-            onBackPressed()
+            intent = Intent(this,Calculate::class.java)
+            startActivity(intent)
             finish()
         }
         btnsaveandnewitem.setOnClickListener {
@@ -26,7 +27,7 @@ class AddItem : AppCompatActivity() {
         }
         btnsaveitem.setOnClickListener {
             intent = Intent(this,Calculate::class.java)
-            startActivity(intent )
+            startActivity(intent)
             finish()
         }
     }
